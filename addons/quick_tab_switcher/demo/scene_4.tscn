@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dc8mjamoxaydn"]
+
+[ext_resource type="Texture2D" uid="uid://b07e50st27346" path="res://addons/quick_tab_switcher/demo/godot_icon.svg" id="1_de1xc"]
+
+[node name="Scene1" type="Node2D" unique_id=428445048]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1774141911]
+position = Vector2(-3.0517578e-05, 0.99998474)
+scale = Vector2(8.9609375, 5.0390625)
+texture = ExtResource("1_de1xc")
+centered = false
